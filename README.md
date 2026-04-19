@@ -32,7 +32,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/kullanici-adiniz/proje-isminiz.git
+git https://github.com/MusatafaOzkn/planly-calendar.git
 ```
 
 ### 2. Backend Kurulumu
