@@ -66,6 +66,13 @@ Frontend'i başlatın:
 npm start
 ```
 
+## + Bilinen Sorunlar ve Çözümleri
+Eğer proje çalıştığında ekranda **Module not found: Error: Can't resolve 'jwt-decode'** hastası alıyorsanız veya buna benzer başka bir hata aşağıdaki adımları uygulayın:
+```bash
+cd frontend
+npm install jwt-decode
+```
+
 ## + Proje Yapısı
 
 Projenin dosya ve klasör hiyerarşisi aşağıdadır:
